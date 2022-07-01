@@ -1,0 +1,2 @@
+# Malaria-Detection-
+The main aim of this malaria detection system is to address the challenges in the existing system by automating the process of malaria detection using Machine learning and image processing, and also, to build a feed-forward model that can recognize the infected and uninfected Malaria cells in the images, using Classification,Convolutional Neural Networks, Keras and Tensorflow.
